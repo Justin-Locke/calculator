@@ -18,7 +18,12 @@ public class Calculator {
     }
     public static double divide(double a, double b) {
         double divideResult = a / b;
+        
         //System.out.println(a + " divided by " + b + " equals " + divideResult);
         return divideResult;
+    }
+
+    public static double answer(double a) {
+        return a;
     }
 }
