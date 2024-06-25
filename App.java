@@ -10,9 +10,6 @@ public class App {
         App firstCalc = new App();
         clearScreen();
 
-        // double answer;
-        // double lastAnswer;
-
         double num1 = getDouble("Enter a Double");
         clearScreen();
         System.out.println("First digit is : " + num1);
