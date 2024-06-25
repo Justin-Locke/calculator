@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class App {
-    double lastNumber;
     double answer;
     double lastAnswer;
 
